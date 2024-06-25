@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RESUME</title>
+</head>
+<link rel="stylesheet" href="style.css">
+<body>
+   <center>
+    <h1>RamaDevi Muthineni</h1></center>
+<h3>About Me</h3>
+<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eligendi ullam dolor illum corporis nemo similique eveniet officiis illo consectetur adipisci recusandae facilis ipsa praesentium, voluptatem sint possimus! Eos, quasi minus!</p>
+<h3>Education</h3>
+<h4>R.V.R&J.C.college of engineering  B.Tech,cgpa:9.41</h4>
+<h4>Bhavana Junior college  Intermediate,percentage:96.7</h4>
+<h4>Balaji High School ssc,prcentage:99</h4>
+       <ul>
+    <h2>skills</h2>
+    <li>c</li>
+    <li>c++</li>
+<li>SQL</li>
+</u1>
+<h2>Tools</h2>
+<p> telnet 10.1.1.3,oracle</p>
+<h2>extra circulum activities</h2>
+<ul>
+<li>participated in coding contests in college</li>
+<li>participated in cultral events</li>
+</ul>
+<h2>Achievements</h2>
+<ul>
+<li>NPTEL-The joy of computing using python</li>
+<li>NPTEL-programming in Java</li>
+<li>ranked a 3rd position in sql conducted by ACM local chapter</li>
+</ul>
+</body>
+</html>
